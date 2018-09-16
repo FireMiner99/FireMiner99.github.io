@@ -1,1 +1,2 @@
-Not really activly developing anything, but thinking of new ideas.
+Further develop this website, possibly fix errors, idk currently
+Right now I'm working much more with Java instead of HTML, CSS and JS but I will return soon.
